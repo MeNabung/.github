@@ -17,10 +17,11 @@ MeNabung ("saving" in Indonesian) helps users grow their IDRX savings through au
 
 ## Repositories
 
-| Repo                                                 | Description                         |
-| ---------------------------------------------------- | ----------------------------------- |
-| [`ui`](https://github.com/MeNabung/ui)               | Next.js 16 frontend with AI advisor |
-| [`contracts`](https://github.com/MeNabung/contracts) | Foundry smart contracts on Base     |
+| Repo                                                 | Description                            |
+| ---------------------------------------------------- | -------------------------------------- |
+| [`miniapp`](https://github.com/MeNabung/miniapp)     | Farcaster Mini-App (mobile-first)      |
+| [`ui`](https://github.com/MeNabung/ui)               | Next.js 16 web frontend with AI advisor|
+| [`contracts`](https://github.com/MeNabung/contracts) | Foundry smart contracts on Base        |
 
 ## Yield Strategies
 
@@ -49,9 +50,9 @@ MeNabung ("saving" in Indonesian) helps users grow their IDRX savings through au
 
 ### Phase 2: Production UX
 
+- [x] Farcaster Mini-App
 - [ ] Push notifications
 - [ ] Bahasa Indonesia
-- [ ] Mobile PWA
 
 ### Phase 3: Growth
 
