@@ -15,26 +15,12 @@ MeNabung ("saving" in Indonesian) helps users grow their IDRX savings through au
 - **Gamification** — Streaks, missions, and achievements to build habits
 - **Base L2** — Low fees, fast transactions
 
-## Repository
+## Repositories
 
-| Repo                                               | Description               |
-| -------------------------------------------------- | ------------------------- |
-| [`menabung`](https://github.com/MeNabung/menabung) | Monorepo (UI + Contracts) |
-
-## Architecture
-
-```text
-menabung/
-├── ui/                 # Next.js 16 frontend
-│   └── src/
-│       ├── app/        # Pages (chat, dashboard, quiz)
-│       ├── components/ # UI + gamification
-│       └── lib/        # AI, wagmi, hooks
-└── contracts/          # Foundry smart contracts
-    └── src/
-        ├── MeNabungVault.sol    # Main vault
-        └── adapters/            # Strategy adapters
-```
+| Repo | Description |
+| ---- | ----------- |
+| [`ui`](https://github.com/MeNabung/ui) | Next.js 16 frontend with AI advisor |
+| [`contracts`](https://github.com/MeNabung/contracts) | Foundry smart contracts on Base |
 
 ## Yield Strategies
 
