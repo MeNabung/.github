@@ -2,7 +2,7 @@
 
 > DeFi savings for Indonesian users — making yield accessible through AI guidance and gamification.
 
-**Built for [Base Indonesia Hackathon 2025](https://base-indonesia.devfolio.co/) — Thetanuts Track**
+**Built for [Base Indonesia Hackathon 2025](https://base-indonesia.devfolio.co/)**
 
 ## What is MeNabung?
 
@@ -17,10 +17,10 @@ MeNabung ("saving" in Indonesian) helps users grow their IDRX savings through au
 
 ## Repositories
 
-| Repo | Description |
-| ---- | ----------- |
-| [`ui`](https://github.com/MeNabung/ui) | Next.js 16 frontend with AI advisor |
-| [`contracts`](https://github.com/MeNabung/contracts) | Foundry smart contracts on Base |
+| Repo                                                 | Description                         |
+| ---------------------------------------------------- | ----------------------------------- |
+| [`ui`](https://github.com/MeNabung/ui)               | Next.js 16 frontend with AI advisor |
+| [`contracts`](https://github.com/MeNabung/contracts) | Foundry smart contracts on Base     |
 
 ## Yield Strategies
 
