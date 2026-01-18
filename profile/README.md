@@ -104,7 +104,7 @@ The AI monitors your portfolio 24/7 and alerts you:
 
 ## Roadmap
 
-### ✅ Hackathon MVP (Now)
+### Hackathon MVP (Now)
 
 - [x] AI advisor with natural language risk profiling
 - [x] Smart vault with automatic fund splitting
@@ -112,14 +112,14 @@ The AI monitors your portfolio 24/7 and alerts you:
 - [x] Farcaster Mini-App integration
 - [x] Base L2 deployment
 
-### 🔄 Phase 1: Real Integrations
+### Phase 1: Real Integrations
 
 - [ ] Live Thetanuts vault integration
 - [ ] Live Aerodrome LP positions
 - [ ] On-chain portfolio tracking
 - [ ] Push notification rebalance alerts
 
-### 🚀 Phase 2: Growth
+### Phase 2: Growth
 
 - [ ] Bahasa Indonesia support
 - [ ] Referral rewards program
