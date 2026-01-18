@@ -128,10 +128,20 @@ The AI monitors your portfolio 24/7 and alerts you:
 
 ---
 
-## Links
+## Deployed Contracts (Base Mainnet)
 
-- **IDRX Token:** [`0x18Bc...C22`](https://basescan.org/token/0x18Bc5bcC660cf2B9cE3cd51a404aFe1a0cBD3C22)
-- **Thetanuts Base:** [`0xd58b...9A1`](https://basescan.org/address/0xd58b814C7Ce700f251722b5555e25aE0fa8169A1)
+| Contract             | Address                                                                                                                 | Description                                    |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| **MeNabungVault**    | [`0x6313640dcf1f30449b80867ffa6ec2da112b6ae8`](https://basescan.org/address/0x6313640dcf1f30449b80867ffa6ec2da112b6ae8) | Main vault — splits deposits across strategies |
+| **ThetanutsAdapter** | [`0xa5b686f20164dcb551088af94589fa37fd34899d`](https://basescan.org/address/0xa5b686f20164dcb551088af94589fa37fd34899d) | Options strategy (~8% APY)                     |
+| **AerodromeAdapter** | [`0xfc6da968585ef7093b6a4efd07a4f42543dde3ef`](https://basescan.org/address/0xfc6da968585ef7093b6a4efd07a4f42543dde3ef) | LP strategy (~12% APY)                         |
+| **StakingAdapter**   | [`0xd96e327a9db80c287e0720e789d7382973d7dfe5`](https://basescan.org/address/0xd96e327a9db80c287e0720e789d7382973d7dfe5) | Staking strategy (~15% APY)                    |
+
+### External Contracts
+
+| Contract       | Address                                                                                                               |
+| -------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **IDRX Token** | [`0x18Bc5bcC660cf2B9cE3cd51a404aFe1a0cBD3C22`](https://basescan.org/token/0x18Bc5bcC660cf2B9cE3cd51a404aFe1a0cBD3C22) |
 
 ---
 
